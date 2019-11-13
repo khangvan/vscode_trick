@@ -1,6 +1,6 @@
 ** quick way to open with vscode from direct folder**
 
-![](images\open-with-vscode.jpg)
+![](open-with-vscode.jpg)
 
 1. create reg file
 2. copy content data as below
