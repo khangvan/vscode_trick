@@ -1,3 +1,5 @@
+
+![](.\images\open-with-vscode.jpg)
 create reg file
 
 ```bash
@@ -25,3 +27,5 @@ Windows Registry Editor Version 5.00
 Next, save the file.
 
 ```
+
+
