@@ -1,7 +1,11 @@
+** quick way to open with vscode from direct folder**
 
-![](.\images\open-with-vscode.jpg)
-create reg file
+![](images\open-with-vscode.jpg)
 
+1. create reg file
+2. copy content data as below
+3. run it
+4. check folder by right click and enjoy!
 ```bash
 Windows Registry Editor Version 5.00
 ; Open files
